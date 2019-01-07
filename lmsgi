@@ -1,0 +1,33 @@
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+	<h1>Lenguaje de Marcas</h1>
+  <p>Lenguaje de Marcas es una asignatura la cual debemos cursar obligatoriamente en nuestro primer año de ASIR y es impartida por Jorge Sánchez</p>
+  <h2>Que se aprende </h2>
+  <ul>
+     <li>Introducción a los lenguajes de marcas</li>
+      <li>Creación de documentos web básicos con HTML</li>
+      <li>Formateo de documentos HTML con CSS</li>
+      <li>Dinamización y adaptación de aplicaciones web con JavaScript</li>
+      <li>Formatos documentales XML y JSON</li>
+      <li> Validación de documentos XML</li>
+      <li>Sindicación de contenidos</li>
+      <li>Sistemas de Gestión Empresarial</li>
+  <h2>Criterios</h2>
+  <ul>
+    <li> El 70% de la nota serán los exámenes</li>
+    <li> El 20% de la nota serán los trabajos</li>
+    <li> El 10% de la nota será por la asistencia y puntualidad a clase</li>
+  </ul>
+  <h2>Tiempo empleado </h2>
+  <ul>
+    <li>Horas semanales -> 4 horas </li>
+		<li>Horas totales -> 122horas </li>
+  </ul>
+  </body>
+  </html>
+    
